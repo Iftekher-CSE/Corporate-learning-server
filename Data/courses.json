@@ -6,7 +6,7 @@
     "duration": "6 weeks",
     "courseType": "Online",
     "imgURL": "https://i.ibb.co/0q2Kdqy/Marketing-Courses.webp",
-    "brief": "I this online course a corporate person can learn about basic of marketing. Any one with marketing or non-marketing background will be able to participate in this course."
+    "brief": "In this online course a corporate person can learn about basic of marketing. Any one with marketing or non-marketing background will be able to participate in this course."
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "duration": "3 weeks",
     "courseType": "Online",
     "imgURL": "https://i.ibb.co/d68gHZW/maxresdefault.jpg",
-    "brief": "I this online course a corporate person can learn about basic to advance of MS Excel. Any one with any background will be able to participate in this course."
+    "brief": "In this online course a corporate person can learn about basic to advance of MS Excel. Any one with any background will be able to participate in this course."
   },
   {
     "id": 3,
@@ -24,33 +24,33 @@
     "duration": "6 weeks",
     "courseType": "Online",
     "imgURL": "https://i.ibb.co/FhPt0RJ/ms-power-BI.jpg",
-    "brief": "I this online course a corporate person can learn about basic of marketing. Any one with marketing or non-marketing background will be able to participate in this course."
+    "brief": "In this online course a corporate person can learn about basic to advance of MS Power BI and analysis tools. Any one with any background will be able to participate in this course."
   },
   {
-    "id": 1,
-    "courseName": "Advance Marketing",
-    "cost": 5000,
+    "id": 4,
+    "courseName": "MS Powerpoint and presentation",
+    "cost": 4000,
     "duration": "6 weeks",
     "courseType": "Online",
-    "imgURL": "https://i.ibb.co/0q2Kdqy/Marketing-Courses.webp",
-    "brief": "I this online course a corporate person can learn about basic of marketing. Any one with marketing or non-marketing background will be able to participate in this course."
+    "imgURL": "https://i.ibb.co/S6Mm1jV/ms-pp.jpg",
+    "brief": "In this online course a corporate person can learn about basic to mid level of MS Powerpoint and presentation. Any one with any background will be able to participate in this course."
   },
   {
-    "id": 1,
-    "courseName": "Advance Marketing",
-    "cost": 5000,
-    "duration": "6 weeks",
+    "id": 5,
+    "courseName": "MS Word",
+    "cost": 2500,
+    "duration": "3 weeks",
     "courseType": "Online",
-    "imgURL": "https://i.ibb.co/0q2Kdqy/Marketing-Courses.webp",
-    "brief": "I this online course a corporate person can learn about basic of marketing. Any one with marketing or non-marketing background will be able to participate in this course."
+    "imgURL": "https://i.ibb.co/ZTCCgsG/ms-word.png",
+    "brief": "In this online course a corporate person can learn about basic to advance of MS Office. Any one with any background will be able to participate in this course."
   },
   {
-    "id": 1,
-    "courseName": "Advance Marketing",
-    "cost": 5000,
-    "duration": "6 weeks",
+    "id": 6,
+    "courseName": "Digital Marketing",
+    "cost": 4000,
+    "duration": "4 weeks",
     "courseType": "Online",
-    "imgURL": "https://i.ibb.co/0q2Kdqy/Marketing-Courses.webp",
-    "brief": "I this online course a corporate person can learn about basic of marketing. Any one with marketing or non-marketing background will be able to participate in this course."
+    "imgURL": "https://i.ibb.co/xjd39G2/Digital-Marketing-Course.png",
+    "brief": "I this online course a corporate person can learn about basic of digital marketing. Any one with marketing or non-marketing background will be able to participate in this course."
   }
 ]
